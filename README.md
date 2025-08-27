@@ -1,6 +1,6 @@
-# [Sorting](https://prikshit-saini.github.io/sorting-algo-project/ 'Live website')
+# [Sorting](https://prikshit-saini.github.io/Sorting_Algo_Visualizer/ 'Live website')
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge)](https://wosuxh.github.io/sorting-algo-project/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue?style=for-the-badge)](https://prikshit-saini.github.io/Sorting_Algo_Visualizer/)
 
 > A dynamic and interactive sorting algorithm visualizer built using [p5.js](https://p5js.org/), helping users understand how various sorting algorithms work in real-time through engaging visual animations.
 
@@ -8,7 +8,7 @@
 
 ## 🌐 Live Website
 
-🔗 Check it out [here](https://prikshit-saini.github.io/sorting-algo-project/)
+🔗 Check it out [here](https://prikshit-saini.github.io/Sorting_Algo_Visualizer/)
 
 ---
 
